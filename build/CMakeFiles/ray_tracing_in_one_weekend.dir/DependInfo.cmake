@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/nanma/Documents/ray-tracing-in-one-weekend/main.cpp" "CMakeFiles/ray_tracing_in_one_weekend.dir/main.cpp.o" "gcc" "CMakeFiles/ray_tracing_in_one_weekend.dir/main.cpp.o.d"
+  "/Users/nanma/Documents/ray-tracing-in-one-weekend/src/main.cpp" "CMakeFiles/ray_tracing_in_one_weekend.dir/src/main.cpp.o" "gcc" "CMakeFiles/ray_tracing_in_one_weekend.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

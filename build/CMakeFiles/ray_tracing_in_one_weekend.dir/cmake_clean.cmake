@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ray_tracing_in_one_weekend.dir/main.cpp.o"
-  "CMakeFiles/ray_tracing_in_one_weekend.dir/main.cpp.o.d"
+  "CMakeFiles/ray_tracing_in_one_weekend.dir/src/main.cpp.o"
+  "CMakeFiles/ray_tracing_in_one_weekend.dir/src/main.cpp.o.d"
   "ray_tracing_in_one_weekend"
   "ray_tracing_in_one_weekend.pdb"
 )
