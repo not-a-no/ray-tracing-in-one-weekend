@@ -1,0 +1,11 @@
+# CMake build directories
+cmake-build-*/
+
+# Generic build directory (if you ever use one)
+build/
+
+# macOS
+.DS_Store
+
+# Generated images from test renders
+image.ppm
